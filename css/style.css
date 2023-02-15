@@ -1,0 +1,109 @@
+h1 {
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+
+table{
+    text-align: center;
+}
+
+td{
+    font-weight: bold;
+}
+
+
+
+.chartBox {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+
+.result{
+    font-weight: bold;
+}
+
+
+
+a{
+    color:aquamarine
+
+}
+
+
+.col{
+    padding-right: 0px;
+}
+
+button.questoes{
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+section{
+    flex: 1 0 auto;
+}
+
+footer{
+    
+    background-color: black;
+    color:beige;
+    flex-shrink: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.botaoimpressao{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.form-check-input[type=radio] {
+    border-color: black;
+}
+
+.conteudo {
+    background: url(../img/fundo.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    
+    
+}
+
+.texto-inicial{
+    color:rgb(102, 209, 2);
+    font-weight: bolder;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    
+}
+
+.chamada{
+    font-weight: bold;
+}
+
+.questoesg{
+    background-color: rgb(166, 90, 228);
+}
+
+label{
+    font-weight: bold;
+}
+
+.respostas{
+    background-color: rgb(207, 207, 207);
+}
